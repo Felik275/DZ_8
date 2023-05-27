@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import datetime
 def py_charm_func():
     print('This is the first test')
@@ -6,3 +7,8 @@ def py_charm_func():
 
 
 py_charm_func()
+=======
+
+def new_funct():
+    print(2+2)
+>>>>>>> test
