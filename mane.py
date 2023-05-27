@@ -5,3 +5,6 @@ def mane_function():
     print('Time -', datetime.datetime.today().time())
 
 mane_function()
+
+def test_function():
+    print("Hello, world!")
